@@ -251,20 +251,20 @@ button:hover{
     }
 
     .item1{
-        display: none;
+       display: none;
     }
     .item2{
-       margin: 0 auto;
+        margin: 0 auto;
     }
     .login1{
-    margin: 0 auto;
+        margin: 0 auto;
     }
     .login2{
-    margin: 0 auto;
+        margin: 0 auto;
     }
     .item3{ 
        margin: 0 auto;
-         width: 350px;
+       width: 350px;
     }
  
 }
