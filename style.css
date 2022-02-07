@@ -250,11 +250,11 @@ button:hover{
         margin: 0;
     }
 
-    .item1{
-       display: none;
+  .item1{
+        display: none;
     }
     .item2{
-        margin: 0 auto;
+        margin: 20px  auto ;
     }
     .login1{
         margin: 0 auto;
@@ -263,8 +263,8 @@ button:hover{
         margin: 0 auto;
     }
     .item3{ 
-       margin: 0 auto;
-       width: 350px;
+        margin: 0 auto 20px auto;
+        width: 350px;
     }
  
 }
